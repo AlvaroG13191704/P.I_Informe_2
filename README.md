@@ -31,4 +31,4 @@ Documentos
 [![Watch the video](/imagenes/fondo1.PNG)](https://www.facebook.com/alvaronorberto.garcia/videos/616915849778642)
 
 ## Video 2
-[![Watch the video](/imagenes/fondo2.PNG)](https://www.youtube.com/watch?v=LlS4A5DyVLc)
+[![Watch the video](/imagenes/fondo2.PNG)](https://youtu.be/1t-TdIrDiKs)
