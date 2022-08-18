@@ -1,4 +1,4 @@
-# Informe 2 | Instalación de ubuntu y configuración de cables cableadas e inalambricas
+# Informe 2 | Instalación de ubuntu y configuración de redes cableadas e inalambricas
 ## Grupo 8 - Prácticas Iniciales - Sección F-
 
 
@@ -16,7 +16,8 @@ Tutores | Carnet
 Walter Guerra | 201709073
 Jeffry Méndez | 201901557
 
-
+## Foto de los integrantes 
+![](IMAGEN_GRUPO.jpeg)
 
 # Contenido
 
